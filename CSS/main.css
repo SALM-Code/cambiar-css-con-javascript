@@ -11,13 +11,17 @@ body{
     place-items: center;
 }
 
-
 /* Estilos para cambiar de color */
 
 p{
     color: black;
 }
+
 .parrafo-azul{
     color: blue;
     font-size: large;
+}
+
+.parrafo-rojo{
+    color: red;
 }
